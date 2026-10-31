@@ -1,6 +1,6 @@
 # Privacy Policy — Who Is This Kid
 
-_Last updated: 28 October 2026_
+_Last updated: 29 October 2026_
 
 _Also available in: [Українська](https://github.com/Oneekz/Legal/blob/main/WhoIsThisKid/PrivacyPolicy_ua.md)_
 
@@ -12,14 +12,14 @@ The app is made and run by Oneekz Productions LLC. Write to oneekz.productions [
 
 ## End-to-end encryption
 
-Everything you write in a tree, every photo, the colours chosen for each person and the names you give your devices are encrypted on your device before they leave it, with a key that only the tree’s devices hold. The key travels inside invite and device links, in the part after the “#”, which apps and browsers never send to any server. Our server stores the encrypted data and passes it between the tree’s devices, but it can’t open it. Neither can our hosting provider, Cloudflare, which carries the traffic, or anyone who gets a copy of the server.
+Everything you write in a tree, every photo, the colours chosen for each person and the names you give your devices are encrypted on your device before they leave it, with a key that only the tree’s devices hold. Invitation links carry the family key in the part after “#”; the app keeps it out of requests to our server. Connecting another device instead uses a temporary public key in that part of the link. After you approve the connection, the new device receives the family key in an encrypted grant that our server cannot open. Our server stores the encrypted data and passes it between the tree’s devices, but it can’t open it. Neither can our hosting provider, Cloudflare, which carries the traffic, or anyone who gets a copy of the server.
 
 So we never see names, dates, relations, photos, measurements, the tree’s name, device names or anything else you type.
 
 ## What the server does see
 
 - Random ids for each tree, member, device and invite, each member’s role (owner, co-admin, editor, view-only), and when each member and device was added and last online.
-- For each device, a public key it makes when it joins and a fingerprint (a one-way hash) of its access token. A device restored from iCloud Keychain or Google’s backup also has a recovery grant, stored the same way. A request to connect another device lasts 10 minutes and holds only encrypted data.
+- For each device, a public key it makes when it joins and a fingerprint (a one-way hash) of its access token. A device restored from iCloud Keychain or Google’s backup also has a recovery grant, stored the same way. A request to connect another device lasts 10 minutes. The server sees its status, random identifiers, public keys and credential hashes; device names and the family-key grant are encrypted.
 - How many records and photos a tree has, their sizes, and when they changed. Old versions are kept for 90 days, so the owner can undo changes.
 - Whether a tree has Premium, until when, and where it comes from. For a subscription, that includes the identifiers Apple or Google give the purchase, the product, and its expiry and status, which the server checks with Apple or Google. It never learns who paid: no Apple ID, Google account, name, email or country.
 
@@ -59,7 +59,7 @@ Families use the app to keep their children’s birthdays and portraits. That in
 - If Premium ends, server photos stay available for 90 days, then are deleted. Downloaded photos stay on your phone.
 - The server keeps each person’s current portrait. Older portraits stay on phones that downloaded them.
 - Earlier versions of records are deleted after 90 days.
-- Nightly copies of the server, which hold only encrypted data, are kept for 7 days.
+- Nightly copies of the server contain encrypted family content and the service metadata described above, and are kept for 7 days.
 
 ## Where the data is
 
