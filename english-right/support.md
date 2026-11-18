@@ -20,6 +20,10 @@ Open the premium screen — from any locked level card on the home screen, or fr
 screen — and tap the restore-purchase button below the price. The purchase is tied to your
 Apple Account, so it comes back at no cost on any device signed in to that account.
 
+Restoring gives the entitlement back; the level itself is then downloaded again, which needs
+our content service to be running (see section 4 of the [Terms of Use](terms.md)). A level you
+have already downloaded stays on that device and keeps working offline regardless.
+
 ### The level downloaded, but the units still show a padlock
 
 That's the course structure, not a fault. A level opens once you pass the previous level's
@@ -28,7 +32,7 @@ material, take the test-out on a unit and skip ahead immediately.
 
 ### The download fails or stops halfway
 
-Each level is roughly 50–65 MB. Check that you have a working connection and enough free
+Each level is roughly 120–230 MB (the first unit of a paid level, about 12–27 MB). Check that you have a working connection and enough free
 space, then tap the retry button on the level card. Downloads resume rather than start over.
 If it keeps failing, send us the exact error message shown on the card.
 
@@ -69,4 +73,4 @@ can, a screenshot. Content fixes ship in ordinary app updates.
 
 ---
 
-Privacy Policy: [privacy.md](privacy.md) · © 2026 Yurii Kashuba
+Privacy Policy: [privacy.md](privacy.md) · © 2026 Oneekz Productions LLC

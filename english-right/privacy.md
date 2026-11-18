@@ -1,9 +1,9 @@
 # Privacy Policy — English Right
 
-**Last updated: 5 August 2026**
+**Last updated: 18 November 2026**
 
-English Right ("the app") is an English course for Ukrainian speakers, published by
-Yurii Kashuba.
+English Right ("the app") is an English course for Ukrainian speakers, developed and
+published by **Oneekz Productions LLC**, based in Magnolia, Texas, USA ("we", "us").
 
 **The short version: the app collects no personal data.** There are no accounts, no sign-up,
 no advertising, no analytics and no tracking of any kind. There is no third-party SDK in the
@@ -57,7 +57,7 @@ The premium levels are a one-time in-app purchase. **Apple processes the payment
 see your name, email address, card details or billing address.
 
 To unlock the levels you bought, the app sends Apple's cryptographically signed transaction to
-our content server at `lang.dailywordlamp.com`. That transaction contains a transaction
+our content server at `lang.oneekz.com`. That transaction contains a transaction
 identifier, the product identifier, the app's bundle identifier and the purchase date — it
 does not contain your name, your email address or your Apple Account. Our server verifies it
 with Apple's App Store Server API and then allows the download. It does not store a customer
@@ -65,7 +65,7 @@ record for you.
 
 ## 5. Our content server
 
-When the app downloads a level from `lang.dailywordlamp.com`, that server sees your device's
+When the app downloads a level from `lang.oneekz.com`, that server sees your device's
 IP address, exactly as any web server does when you visit a page. It is used to deliver the
 download and to rate-limit abuse. It is not used to build a profile, is not linked to your
 purchase and is not shared. Standard access logs are kept only briefly, for security and
@@ -94,8 +94,9 @@ for us to delete on request — but you are welcome to write and ask.
 
 ## 9. Your rights
 
-Under the GDPR and Ukrainian data-protection law you have the right to access, correct,
-export or erase personal data held about you. We hold none, so in practice these rights are
+Depending on where you live (for example under the GDPR in the EU, UK data-protection law,
+Ukrainian data-protection law or the privacy laws of some US states), you may have the right
+to access, correct, export or erase personal data held about you. We hold none, so in practice these rights are
 satisfied by the paragraph above. If you believe otherwise, contact us and we will answer.
 
 ## 10. Changes to this policy
