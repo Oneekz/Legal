@@ -1,6 +1,6 @@
 # Privacy Policy — Зоряна майстерня слів
 
-_Last updated: 9 November 2026_
+_Last updated: 18 November 2026_
 
 _Also available in: [Українська](privacy.uk.md)_
 
@@ -10,7 +10,7 @@ _Also available in: [Українська](privacy.uk.md)_
 
 ## Local learning data
 
-The app stores completed lessons, collected words, reading positions, game progress, ship rewards and settings on the device so that play can continue later. Settings include the interface language (System default, English or Ukrainian), which applies to everyone on that device and is not sent anywhere.
+The app stores completed lessons, collected words, reading positions, game progress, ship and space-car parts, and settings on the device so that play can continue later. Settings include the interface language (System default, English or Ukrainian), which applies to everyone on that device and is not sent anywhere.
 
 Each local player profile has a chosen nickname, a built-in avatar and separate learning progress; these are also stored on that device. A nickname does not need to be a child's real name. Local profiles are not online accounts and are not sent to us. We do not ask for children's email addresses, birth dates, photographs or contact details.
 
@@ -44,7 +44,7 @@ Email is handled by the email providers involved in delivery. Sending an email i
 
 ## External pages
 
-This policy and the support page are hosted on GitHub. Opening those pages or an email link uses an external service, subject to that service's own privacy practices. See [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). In the app, these links are in For grown-ups → Privacy and support («Для дорослих» → «Конфіденційність і підтримка») and open only after a question meant for adults. They open the English or Ukrainian page, matching the interface language. Learning in the app does not require opening those pages.
+This policy and the support page are hosted on GitHub. Opening those pages or an email link uses an external service, subject to that service's own privacy practices. See [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). In the app, these links are in For grown-ups → Privacy and support («Для батьків» → «Конфіденційність і підтримка») and open only after a question meant for adults. They open the English or Ukrainian page, matching the interface language. Learning in the app does not require opening those pages.
 
 ## Changes and contact
 

@@ -47,7 +47,7 @@ Yes. Enable “No dragging” («Без перетягування») in a lesso
 
 ### How do we reset progress?
 
-Use the reset controls in For grown-ups («Для дорослих»). Resetting is destructive and asks for confirmation. Check the selected player before resetting or deleting their data; other players are not affected.
+Use the reset controls in For grown-ups («Для батьків»). Resetting is destructive and asks for confirmation. Check the selected player before resetting or deleting their data; other players are not affected.
 
 ### Why are some lessons locked?
 
@@ -59,6 +59,6 @@ iPhone and iPad with iOS or iPadOS 16 or later.
 
 ### Where are the privacy and support links in the app?
 
-In For grown-ups → Privacy and support («Для дорослих» → «Конфіденційність і підтримка»). The links open in the browser or the mail app only after a question meant for adults.
+In For grown-ups → Privacy and support («Для батьків» → «Конфіденційність і підтримка»). The links open in the browser or the mail app only after a question meant for adults.
 
 [Privacy Policy](privacy.md) · © 2026 Oneekz Productions LLC
