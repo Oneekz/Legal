@@ -1,10 +1,10 @@
-# Privacy Policy — Зоряна майстерня слів
+# Privacy Policy — Read Ukrainian: Skladolit
 
-_Last updated: 18 November 2026_
+_Last updated: 24 November 2026_
 
 _Also available in: [Українська](privacy.uk.md)_
 
-Зоряна майстерня слів (displayed on the device as «Майстерня слів», and described in English as Ukrainian Word Workshop) is a game for learning to read Ukrainian on iPhone and iPad. Its interface can be English or Ukrainian; the reading material and all recordings are Ukrainian. The publisher is **Oneekz Productions LLC**.
+Read Ukrainian: Skladolit (in Ukrainian «Читай українською: Складоліт»; shown on the device as «Складоліт» or “Skladolit”) is a game for learning to read Ukrainian on iPhone and iPad. Its interface can be English or Ukrainian; the reading material and all recordings are Ukrainian. The publisher is **Oneekz Productions LLC**.
 
 **We do not receive personal data from the app. Learning progress is stored locally. There are no online accounts, ads, tracking or in-app purchases.**
 
@@ -44,7 +44,9 @@ Email is handled by the email providers involved in delivery. Sending an email i
 
 ## External pages
 
-This policy and the support page are hosted on GitHub. Opening those pages or an email link uses an external service, subject to that service's own privacy practices. See [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). In the app, these links are in For grown-ups → Privacy and support («Для батьків» → «Конфіденційність і підтримка») and open only after a question meant for adults. They open the English or Ukrainian page, matching the interface language. Learning in the app does not require opening those pages.
+This policy and the support page are hosted on GitHub. Opening those pages or an email link uses an external service, subject to that service's own privacy practices. See [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). In the app, these links are in For grown-ups → Privacy and support («Для батьків» → «Конфіденційність і підтримка») and open only after a question meant for adults. They open the English or Ukrainian page, matching the interface language.
+
+The Reading screen («Читалка») also shows a QR code for the author's book on Amazon. The app only draws the code; it sends nothing. Tapping the code or its button opens the Amazon page in the browser, again only after a question meant for adults. Scanning the code with another device, or visiting Amazon, is subject to Amazon's own privacy practices; see [Amazon's privacy notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ). Learning in the app does not require opening any of these pages.
 
 ## Changes and contact
 

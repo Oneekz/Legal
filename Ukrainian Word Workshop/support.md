@@ -1,4 +1,4 @@
-# Зоряна майстерня слів — Support
+# Read Ukrainian: Skladolit — Support
 
 _Also available in: [Українська](support.uk.md)_
 
@@ -43,7 +43,7 @@ Yes. Tap the player name at the top (“Who's playing?” / «Хто грає?»
 
 ### Can we play without dragging?
 
-Yes. Enable “No dragging” («Без перетягування») in a lesson, Help, Pause or the adult settings. Tap a block to choose it, then tap the next empty socket. Turn the option off to restore dragging.
+Yes. In For grown-ups («Для батьків»), turn on “No dragging” («Без перетягування») for the selected player. Then tap a block to choose it, and tap the next empty place. Turn the option off to restore dragging.
 
 ### How do we reset progress?
 
@@ -60,5 +60,9 @@ iPhone and iPad with iOS or iPadOS 16 or later.
 ### Where are the privacy and support links in the app?
 
 In For grown-ups → Privacy and support («Для батьків» → «Конфіденційність і підтримка»). The links open in the browser or the mail app only after a question meant for adults.
+
+### What is the QR code on the Reading screen?
+
+It leads to the author's whole book on Amazon. Scan it with a phone's camera, or tap it or its button in the app: Amazon opens in the browser after a question meant for adults. There are no purchases inside the app.
 
 [Privacy Policy](privacy.md) · © 2026 Oneekz Productions LLC
